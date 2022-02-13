@@ -36,6 +36,11 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - https://github.com/depaulcdm/hw4-mabarca4/blob/master/hello-world/pom.xml
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+- ![Screen Capture #8](images/gradle-installation.png)
+- ![Screen Capture #9](images/gradle-install-directory.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+- ![Screen Capture #10](images/gradle-successful-build.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+- ![Screen Capture #11](images/gradle-jar-execution.png)
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+- https://github.com/depaulcdm/hw4-mabarca4/blob/master/hello-world/build.gradle
